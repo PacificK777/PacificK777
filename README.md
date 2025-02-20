@@ -15,7 +15,7 @@
 🌱 I’m currently learning JUnit5, Mokito <br>
 🔭 I’m currently working on Ecommerce Backend Project<br>
 ✉️ How to Reach Me: [prashantk0008@gmail.com](mailto:prashantk0008@gmail.com)<br>
-📄 <a href="#" style="color: red;">View My Resume</a>  
+<a href="RESUME.pdf" target="_blank" style="text-decoration: none;">📄 View My Resume</a><br>
 Feel free to ⭐ or 🍴 any of my Repositories! 🚀
 
 ## <h2 align="left"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
