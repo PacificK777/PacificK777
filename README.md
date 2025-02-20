@@ -51,7 +51,7 @@ Feel free to ⭐ or 🍴 any of my Repositories! 🚀
 ![](https://github-readme-stats.vercel.app/api?username=PacificK777&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)
 [![GitHub Streak](https://streak-stats.demolab.com?user=PacificK777&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PacificK777&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Top Languages">
 </p>
 
